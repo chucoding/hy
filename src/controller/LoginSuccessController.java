@@ -17,5 +17,3 @@ public class LoginSuccessController extends HttpServlet {
 		req.getRequestDispatcher("/contents/MAN/html/callback.html").forward(req, resp);
 	}
 }
-
-
